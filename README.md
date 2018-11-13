@@ -2,6 +2,6 @@
 
 dockerized version of geoserver-shell (https://github.com/bioatlas/dugnad-docker)
 
-  $ make
-  $ make shell
+    $ make
+    $ make shell
 
